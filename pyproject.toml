@@ -1,0 +1,12 @@
+[project]
+name = "advanced-machine-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=9.17.1",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pgmpy>=1.1.2",
+]
